@@ -1,0 +1,5 @@
+black==24.10.0
+Pillow==11.0.0
+PySimpleGUI==5.0.7
+pytesseract==0.3.13
+python-dotenv==1.0.1
