@@ -180,3 +180,5 @@ custom_compression/verification_data/
 
 # Ignore
 *.DS_STORE
+# Go build outputs
+go/**/bin
