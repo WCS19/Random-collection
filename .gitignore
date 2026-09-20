@@ -165,3 +165,18 @@ cython_debug/
 steganography/*.jpg
 steganography/*.png
 !steganography/palmtree.jpg
+
+# Compression experiments — generated / regeneratable artifacts
+compression/lz77_codec.c
+compression/lz77_codec.html
+compression/benchmark_results/
+*.bkdt
+*.lz
+*.decompressed
+*.decompressed.*
+*.original
+custom_compression/test_data/
+custom_compression/verification_data/
+
+# Ignore
+*.DS_STORE
